@@ -33,3 +33,11 @@ form {
   display: flex;
   justify-content: space-around;
 }
+.links {
+  text-align: center;
+  padding-top: 30px;
+}
+a {
+  color: grey;
+  padding-bottom: 30px;
+}

@@ -106,14 +106,6 @@ export default function Search() {
         <div className="links">
           {" "}
           Open Source Code by Nicole Torres from SheCodes
-          <br />
-          <a
-            href="https://github.com/Angeldog27/my-app"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Visit Github Repository
-          </a>
         </div>
       </div>
     );
